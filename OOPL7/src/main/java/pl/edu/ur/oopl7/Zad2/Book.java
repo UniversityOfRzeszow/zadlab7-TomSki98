@@ -1,4 +1,4 @@
-package pl.edu.ur.oopl7;
+package pl.edu.ur.oopl7.Zad2;
 
 /**
  *
